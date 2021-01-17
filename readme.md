@@ -9,7 +9,7 @@ This repository is for paper *Efficient Local Trajectory Planning for High Speed
 - [Ewok](https://github.com/VladyslavUsenko/ewok/tree/master/ewok_ring_buffer/include/ewok). A version with our required IO functions is included in *nags_planning/include*.
 
 # Building Steps
-Clone this repository to your ROS workspace and run
+Clone this repository to your ROS workspace and compile with
 ```
 catkin_make
 ```
